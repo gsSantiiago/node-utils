@@ -1,0 +1,30 @@
+{
+  "name": "node-utils",
+  "version": "1.0.0",
+  "description": "A simple api utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsSantiiago/node-utils.git"
+  },
+  "keywords": [
+    "node",
+    "util",
+    "tests"
+  ],
+  "author": "Guilherme A. Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsSantiiago/node-utils/issues"
+  },
+  "homepage": "https://github.com/gsSantiiago/node-utils#readme",
+  "dependencies": {
+    "os-utils": "0.0.14"
+  },
+  "devDependencies": {
+    "@types/os-utils": "0.0.0"
+  }
+}
